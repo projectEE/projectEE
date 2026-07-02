@@ -16,3 +16,10 @@ Educational shared PC administrator.
 
 - X
 - https://x.com/TorNeKotobuki
+
+## Recent LT
+
+2026
+
+- すきやねんAzure #39
+- なごあず #9
